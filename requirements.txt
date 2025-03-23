@@ -5,5 +5,4 @@ cloudinary
 apscheduler
 python-dotenv
 requests
-ffmpeg
-uvicorn
+ffmpeg-python
