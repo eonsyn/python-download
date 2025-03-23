@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yt-dlp
+cloudinary
+apscheduler
+python-dotenv
+requests
+ffmpeg
